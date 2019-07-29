@@ -1,0 +1,23 @@
+.c{
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    display: inline-block;
+}
+
+#c1{
+    background-color: aquamarine;
+}
+
+#c2{
+    background-color: rgb(255, 195, 127);
+}
+
+#c3{
+    background-color: rgb(161, 127, 255);
+}
+
+#c4{
+    background-color: rgb(224, 88, 88);
+}
+
